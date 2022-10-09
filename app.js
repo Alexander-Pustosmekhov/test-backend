@@ -1,8 +1,6 @@
 const express = require("express");
 const logger = require("morgan");
 const cors = require("cors");
-// const songsDb = require("./src/routes/api/songs");
-// const testsRouter = require("./src/routes/api/tests");
 const songsRouter = require("./src/routes/api/songs");
 
 const app = express();
