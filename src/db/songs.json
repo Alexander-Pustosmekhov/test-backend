@@ -1,0 +1,98 @@
+[
+  {
+    "artist": "The Kingstone Trio",
+    "song": "Tom Dooley",
+    "genre": "Folk",
+    "year": 1958
+  },
+  {
+    "artist": "Led Zeppelin",
+    "song": "Kashmir",
+    "genre": "Rock",
+    "year": 1975
+  },
+  {
+    "artist": "Miles Davis",
+    "song": "Blue in Green",
+    "genre": "Jazz",
+    "year": 1959
+  },
+  {
+    "artist": "Muddy Waters",
+    "song": "Mannish Boy",
+    "genre": "Blues",
+    "year": 1955
+  },
+  {
+    "artist": "The Kingstone Trio 1",
+    "song": "Tom Dooley",
+    "genre": "Folk",
+    "year": 1958
+  },
+  {
+    "artist": "Led Zeppelin 1",
+    "song": "Kashmir",
+    "genre": "Rock",
+    "year": 1975
+  },
+  {
+    "artist": "Miles Davis 1",
+    "song": "Blue in Green",
+    "genre": "Jazz",
+    "year": 1959
+  },
+  {
+    "artist": "Muddy Waters 1",
+    "song": "Mannish Boy",
+    "genre": "Blues",
+    "year": 1955
+  },
+  {
+    "artist": "The Kingstone Trio 3",
+    "song": "Tom Dooley",
+    "genre": "Folk",
+    "year": 1958
+  },
+  {
+    "artist": "Led Zeppelin 3",
+    "song": "Kashmir",
+    "genre": "Rock",
+    "year": 1975
+  },
+  {
+    "artist": "Miles Davis 3",
+    "song": "Blue in Green",
+    "genre": "Jazz",
+    "year": 1959
+  },
+  {
+    "artist": "Muddy Waters 3",
+    "song": "Mannish Boy",
+    "genre": "Blues",
+    "year": 1955
+  },
+  {
+    "artist": "The Kingstone Trio 4",
+    "song": "Tom Dooley",
+    "genre": "Folk",
+    "year": 1958
+  },
+  {
+    "artist": "Led Zeppelin 4",
+    "song": "Kashmir",
+    "genre": "Rock",
+    "year": 1975
+  },
+  {
+    "artist": "Miles Davis 4",
+    "song": "Blue in Green",
+    "genre": "Jazz",
+    "year": 1959
+  },
+  {
+    "artist": "Muddy Waters 4",
+    "song": "Mannish Boy",
+    "genre": "Blues",
+    "year": 1955
+  }
+]
