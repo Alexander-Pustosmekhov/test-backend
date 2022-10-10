@@ -49,7 +49,7 @@ const getAllSongs = async (req, res, next) => {
       result = await db.query(`SELECT * FROM songs WHERE year IN ('${year}')`);
     }
 
-    return res.status(200).json(result.rows);
+    return res.status(200).json(result);
   } catch (error) {
     console.log("Error", error);
   }
