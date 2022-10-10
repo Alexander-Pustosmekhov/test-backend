@@ -1,5 +1,6 @@
 require("dotenv").config();
 const app = require("./app");
+
 const db = require("./src/db/connectPostgreSQL");
 
 const PORT = process.env.PORT || 3000;
